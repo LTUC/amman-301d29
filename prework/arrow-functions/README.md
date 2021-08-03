@@ -15,10 +15,10 @@ Why does this happen? It happens because arrow functions retain the `this` value
 
 ## Assignment Tasks
 
-1. Work on your fork on a non-main branch. As you work, remember to add, commit, and push regularly.
-1. Create a new branch for this assignment called `class-00-lab-b`
+1. Create a new repo in your GitHub account called `arrow-functions`. Clone the empty repo to your dev environment.
 1. Navigate to the `prework` folder in the root directory of the class repository.  Then navigate into the `arrow-functions` folder.
-1. Make a copy of the folder named `starter-code`. Do your work in this folder.
+1. Copy the contents of the folder named `starter-code` into your newly-created repo. Make an initial commit with the unchanged starter code. 
+1. Proceed to work on a well-named branch. As you work, remember to add, commit, and push regularly.
 1. The `app.js` file contains examples of function expressions, as you are accustomed to seeing. Work through steps 1-9, reading the notes and reviewing the refactored samples. 
 1. For each of these steps, uncomment the console.log line. Open the `index.html` file in the browser and verify the correct output in the developer console.
 1. To complete step 10, refactor the function expressions one at a time. Uncomment the console.log line and use it to check that the output is the same after you have completed the refactoring process.
@@ -30,7 +30,7 @@ Why does this happen? It happens because arrow functions retain the `this` value
 
 ## Submission Instructions
 
-1. When finished, push your branch back to your fork on GitHub, and merge it into main.
+1. When finished, make a PR from your branch to main, and merge it.
 1. Submit a link to your PR. You can link to a pull request even if the pull request is already merged or closed.
 1. Add a comment in your Canvas assignment which includes the following:
     - A question within the context of today's lab assignment
