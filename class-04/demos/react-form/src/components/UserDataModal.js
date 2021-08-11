@@ -10,6 +10,7 @@ class UserDataModal extends React.Component {
     }
 
     render() {
+        console.log(this.props.formData)
         return (
             <div>
                 <Modal show={this.props.showModal} onHide={this.handleClose}>
